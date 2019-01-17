@@ -1,4 +1,5 @@
 #weather_total_analysis
+
 This was a quick analysis on whether the temperature affects the total of NFL games.  My findings are as follows:
 
 1) The mean total of an NFL game for data ranging between 1966 and 2017 is ~41
